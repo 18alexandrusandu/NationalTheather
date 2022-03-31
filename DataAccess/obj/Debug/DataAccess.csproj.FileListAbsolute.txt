@@ -1,0 +1,2 @@
+C:\Users\Sandu\Desktop\NationalTheather\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+C:\Users\Sandu\Desktop\NationalTheather\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache

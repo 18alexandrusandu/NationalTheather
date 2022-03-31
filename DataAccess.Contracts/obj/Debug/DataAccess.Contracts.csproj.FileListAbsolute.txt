@@ -1,0 +1,2 @@
+C:\Users\Sandu\Desktop\NationalTheather\DataAccess.Contracts\obj\Debug\DataAccess.Contracts.csproj.AssemblyReference.cache
+C:\Users\Sandu\Desktop\NationalTheather\DataAccess.Contracts\obj\Debug\DataAccess.Contracts.csproj.CoreCompileInputs.cache
